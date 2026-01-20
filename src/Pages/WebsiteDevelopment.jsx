@@ -12,7 +12,7 @@ import {
 // 👉 Replace these with your real images / gifs
 // src\assets\webdev.gif
 import heroGif from "../assets/webdev.gif"
-import uiGif from "../assets/userInterface.gif"
+import uiGif from "../assets/UserInterface.gif"
 import { useNavigate } from "react-router-dom";
 // import devGif from "../../assets/software1.gif";
 
