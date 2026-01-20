@@ -1,6 +1,6 @@
 import React from "react";
 
-const MetaAdds = () => {
+const MetaAds = () => {
   return (
     <div>
       <div className="text-center py-6  text-white">
@@ -23,4 +23,4 @@ const MetaAdds = () => {
   );
 };
 
-export default MetaAdds;
+export default MetaAds;
