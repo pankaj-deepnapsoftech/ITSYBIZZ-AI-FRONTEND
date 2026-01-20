@@ -15,7 +15,7 @@ import { useNavigate } from "react-router-dom";
 import metaHero from "../assets/meta-ads.gif";
 import dashboard from "../assets/meta-dashboard.gif";
 
-function MetaAds() {
+function Ads() {
   const navigate = useNavigate();
   return (
     <div className="w-full min-h-screen bg-gradient-to-br from-slate-50 via-white to-indigo-50 text-gray-900">
@@ -215,4 +215,4 @@ function MetaAds() {
   );
 }
 
-export default MetaAds;
+export default Ads;

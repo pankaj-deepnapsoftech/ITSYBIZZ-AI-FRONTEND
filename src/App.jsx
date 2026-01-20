@@ -187,7 +187,7 @@ import BrandBuilding from "./Pages/BrandBuilding";
 import Orm from "./Pages/Orm";
 import PublicRelation from "./Pages/PublicRelation";
 import InfluenceMarkiting from "./Pages/InfluenceMarkiting";
-import MetaAds from "./Pages/MetaAds";
+// import Ads from "./Pages/Ads";
 import GoogleAds from "./Pages/GoogleAds";
 import EmailMarkiting from "./Pages/EmailMarkiting";
 import ContentMarkiting from "./Pages/ContentMarkiting";
