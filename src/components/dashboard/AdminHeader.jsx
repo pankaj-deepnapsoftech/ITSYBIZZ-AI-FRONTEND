@@ -6,7 +6,7 @@ import { IoNotifications } from "react-icons/io5";
 import UserPage from "../../Drawer/UserPage";
 import NotificationModal from "../../Drawer/NotificationModal";
 
-const Header = ({ toggleSidebar }) => {
+const AdminHeader = ({ toggleSidebar }) => {
 
   const [showNotification, setShowNotification] = useState(false);
   const [isOpen, setOpen] = useState(false)
@@ -67,4 +67,4 @@ const Header = ({ toggleSidebar }) => {
   );
 };
 
-export default Header;
+export default AdminHeader;
