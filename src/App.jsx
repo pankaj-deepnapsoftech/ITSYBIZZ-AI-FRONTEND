@@ -198,7 +198,7 @@ import Ppc from "./Pages/Ppc";
    LAZY IMPORTS
 ========================= */
 
-const Home = lazy(() => import("./Pages/Home"));
+const Home = lazy(() => import("./Pages/Home"))
 const Slider = lazy(() => import("./Pages/Slider"));
 const It = lazy(() => import("./Pages/task/It"));
 const Secuirity = lazy(() => import("./Pages/task/Secuirity"));
