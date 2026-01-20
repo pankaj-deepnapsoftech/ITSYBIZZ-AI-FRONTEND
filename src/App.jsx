@@ -226,7 +226,7 @@ const Login = lazy(() => import("./Pages/Login"));
 const PrivacyPolicy = lazy(() => import("./Components/Legal/PrivacyPolicy"));
 const Term = lazy(() => import("./Components/Legal/Term"));
 const DigitalMarketing = lazy(() => import("./Pages/DigitalMarketing"));
-const MetaAdds = lazy(() => import("./Components/DigitalMarketing/MetaAdds"));
+const MetaAds = lazy(() => import("./Components/DigitalMarketing/MetaAds"));
 const Contact = lazy(() => import("./Pages/Contact"));
 const Career = lazy(() => import("./Components/Career"));
 const Dashboard = lazy(() => import("./Pages/Admin/Dashboard"));
