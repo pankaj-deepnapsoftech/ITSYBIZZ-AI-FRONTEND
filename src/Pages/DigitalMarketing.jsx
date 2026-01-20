@@ -6,12 +6,12 @@ import SoftwareDevelopment from "../Components/Development/SoftwareDevelopment";
 import AppDevelopment from "../Components/Development/AppDevelopment";
 import CRMDevelopment from "../Components/Development/CRMDevelopment";
 import WavyScrollText from "../Components/WavyScroll";
-import Ads from "../Components/Digital Marketing/Ads";
-import Marketing from "../Components/Digital Marketing/Marketing";
-import SEO from "../Components/Digital Marketing/SEO";
-import PPC from "../Components/Digital Marketing/PPC";
-import GoogleAds from "../Components/Digital Marketing/GoogleAds";
-import EmailM from "../Components/Digital Marketing/EmailM";
+import Ads from "../Components/digitalMarketing/Ads";
+import Marketing from "../Components/digitalMarketing/Marketing";
+import SEO from "../Components/digitalMarketing/SEO";
+import PPC from "../Components/digitalMarketing/PPC";
+import GoogleAds from "../Components/digitalMarketing/GoogleAds";
+import EmailM from "../Components/digitalMarketing/EmailM";
 
 const Development = () => {
   // Extract query parameter
